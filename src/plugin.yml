@@ -1,0 +1,9 @@
+name: HeyRandomTP
+main: fr.HeyFactions.HeyRandomTP.HeyRandomTP
+version: 1.0
+author: BullCheat
+depend: [BullLIB]
+commands:
+  randomtp:
+    aliases: [rtp]
+    permission: randomtp
